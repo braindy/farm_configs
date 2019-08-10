@@ -1,0 +1,104 @@
+{
+    "DefaultCoinsCount": 1200,
+    "DefaultWaterCount": 10,
+    "timeBetweenSpawns": [
+        0,
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15,
+        17,
+        19
+    ],
+    "defaultProductProfit": [
+        0,
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15,
+        17,
+        19
+    ],
+    "defaultUpgradePrices": [
+        0,
+        30,
+        50,
+        70,
+        90,
+        110,
+        130,
+        150,
+        170,
+        190
+    ],
+    "DefaultProductAddition": 0.2,
+    "InteractionSecondsInterval": 0.2,
+    "managerLevelMultipliers": [
+        0,
+        1,
+        1.1,
+        1.2,
+        1.3,
+        1.4
+    ],
+    "bedsWaterConsumptions": [
+        0,
+        1,
+        3,
+        7,
+        10
+    ],
+    "TruckWayDuration": 5,
+    "TrucksInterval": 2,
+    "waterPerTruckByLevel": [
+        0,
+        1,
+        10,
+        100,
+        1000
+    ],
+    "unlockPrices": [
+        0,
+        10,
+        100,
+        1000,
+        10000
+    ],
+    "waterTankCapacities": [
+        0,
+        10,
+        100,
+        1000,
+        10000
+    ],
+    "waterTankUpgradePrices": [
+        0,
+        10,
+        100,
+        1000,
+        10000
+    ],
+    "truckSpeed": [
+        0,
+        1,
+        1.1,
+        1.2,
+        1.3,
+        1.4,
+        1.5,
+        1.6
+    ],
+    "garageUpgradePrices": [
+        0,
+        10,
+        100,
+        1000,
+        10000
+    ]
+}
