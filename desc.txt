@@ -1,0 +1,17 @@
+DefaultCoinsCount
+DefaultWaterCount – кол-во ресурсов при старте
+timeBetweenSpawns – время роста с садовником первого левела для каждой грядки
+defaultProductProfit – доход с одного плода для каждой грядки
+defaultUpgradePrices – цена апгрейда для каждой грядки
+DefaultProductAddition – кол-во секунд жизни растения, которые скипает интерактив
+InteractionSecondsInterval – перезарядка интерактива (сек)
+managerLevelMultipliers – на каком уровне менеджера какой множитель скорости (на самом деле это делитель времени. timeBetweenSpawns делится на него)
+bedsWaterConsumptions – потребление воды при интерактиве для каждой грядки
+TruckWayDuration – визуальный параметр, сколько секунд на экране один грузовик
+TrucksInterval – каждые сколько секунд будет появляться новый грузовик
+waterPerTruckByLevel – кол-во воды в каждом грузовике для каждого уровня гаража
+unlockPrices – цены анлока для каждой грядки 
+waterTankCapacities – емкость бочки для каждого уровня
+waterTankUpgradePrices – цена апгрейда бочки для каждого уровня
+truckSpeed – множитель скорости грузовиков для каждого уровня гаража
+garageUpgradePrices – цены апгрейда гаража для каждого уровня
