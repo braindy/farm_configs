@@ -1,6 +1,6 @@
 {
     "DefaultCoinsCount": 1200,
-    "DefaultWaterCount": 10,
+    "DefaultWaterCount": 500,
     "timeBetweenSpawns": [
         0,
         5,
