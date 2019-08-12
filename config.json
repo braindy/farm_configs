@@ -160,5 +160,9 @@
         204800,
         409600,
         819200
-    ]
+    ],
+    "managersUnlockPrices": [
+        0    
+    ],
+    "managersUprgadePriceMult": 0.5
 }
