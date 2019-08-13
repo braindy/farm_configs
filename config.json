@@ -368,5 +368,7 @@
     "maxManagerLevel": 50,
     "managerPercentStep": 1,
     
-    "maxBedResetsCount": 5
+    "maxBedResetsCount": 5,
+    
+    "bedMaxLevel": 20
 }
