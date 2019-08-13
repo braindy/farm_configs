@@ -366,5 +366,7 @@
     "managersUprgadePriceMult": 0.5,
 
     "maxManagerLevel": 50,
-    "managerPercentStep": 1
+    "managerPercentStep": 1,
+    
+    "maxBedResetsCount": 5
 }
