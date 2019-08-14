@@ -377,6 +377,6 @@
     "nitroBonusVideoDuration": 300,
 
     "RainEffectMultiplier": 2,
-    "ExtraGrowEffectMultiplier": 2,
+    "ExtraGrowEffectMultiplier": 1.5,
     "NitroEffectMultiplier": 2
 }
