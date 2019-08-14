@@ -370,5 +370,13 @@
     
     "maxBedResetsCount": 5,
     
-    "bedMaxLevel": 20
+    "bedMaxLevel": 20,
+    
+    "rainBonusVideoDuration": 300,
+    "extraGrowBonusVideoDuration": 300,
+    "nitroBonusVideoDuration": 300,
+
+    "RainEffectMultiplier": 2,
+    "ExtraGrowEffectMultiplier": 2,
+    "NitroEffectMultiplier": 2
 }
