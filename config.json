@@ -65,7 +65,7 @@
         790
     ],
     "TruckWayDuration": 5,
-    "TrucksInterval": 2,
+    "TrucksInterval": 3,
     "waterPerTruckByLevel": [
         0,
         10,
