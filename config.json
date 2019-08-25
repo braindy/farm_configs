@@ -363,7 +363,7 @@
         "22000000000000",
         "240000000000000"
     ],
-    "managersUprgadePriceMult": 0.5,
+    "managersUprgadePriceMult": 1.5,
 
     "maxManagerLevel": 50,
     "managerPercentStep": 1,
