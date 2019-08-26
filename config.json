@@ -387,5 +387,7 @@
     
     "levelUpRewardStartValue": 50,
     "levelUpRewardMult": 4
+    
+    "LabVideoMinutesOff": 30
 
 }
