@@ -389,7 +389,7 @@
     "levelUpRewardMult": 4
     
     "LabVideoMinutesOff": 30,
-    
-    "maxBedLabLevel": 10
+    "maxBedLabLevel": 10,
+    "labMultLevelStep": 0.1
 
 }
