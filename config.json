@@ -392,6 +392,7 @@
     "maxBedLabLevel": 10,
     "labMultLevelStep": 0.1,
     "bedsLabFirstUpgradePrices": [
+        0,
         1000,
         1000,
         1000,
