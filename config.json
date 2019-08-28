@@ -372,7 +372,7 @@
     
     "bedMaxLevel": 20,
     
-    "rainBonusVideoDuration": 10,
+    "rainBonusVideoDuration": 300,
     "extraGrowBonusVideoDuration": 300,
     "nitroBonusVideoDuration": 300,
 
