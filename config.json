@@ -390,7 +390,7 @@
     
     "LabVideoMinutesOff": 30,
     "maxBedLabLevel": 10,
-    "labMultLevelStep": 0.1,
+    "labMultLevelStep": 1,
     "bedsLabFirstUpgradePrices": [
         0,
         20000,
