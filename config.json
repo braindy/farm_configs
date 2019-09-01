@@ -385,7 +385,7 @@
     "expToNextLevelStartValue": 1000,
     "expToNextLevelMult": 4,
     
-    "levelUpRewardStartValue": 50,
+    "levelUpRewardStartValue": 100,
     "levelUpRewardMult": 4,
     
     "LabVideoMinutesOff": 30,
