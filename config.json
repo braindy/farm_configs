@@ -46,7 +46,7 @@
         "4.4e+11",
         "4.8e+12"
     ],
-    "DefaultProductAddition": 0.2,
+    "DefaultProductAddition": 0.4,
     "InteractionSecondsInterval": 0.2,
 
     "bedsWaterConsumptions": [
