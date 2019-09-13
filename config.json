@@ -183,7 +183,7 @@
 
     "RainEffectMultiplier": 2,
     "ExtraGrowEffectMultiplier": 1.5,
-    "NitroEffectMultiplier": 2,
+    "NitroEffectMultiplier": 5,
     
     "OfflineProfitMaxMinutes": 1,
     
