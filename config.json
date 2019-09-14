@@ -6,7 +6,7 @@
     "InteractionSecondsInterval": 0.2,
 
     "TruckWayDuration": 5,
-    "TrucksInterval": 3,
+    "TrucksInterval": 2.8,
     "waterPerTruckByLevel": [
         0,
         10,
