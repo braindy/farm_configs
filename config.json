@@ -182,7 +182,7 @@
     "nitroBonusVideoDuration": 300,
 
     "RainEffectMultiplier": 2,
-    "ExtraGrowEffectMultiplier": 1.5,
+    "ExtraGrowEffectMultiplier": 2,
     "NitroEffectMultiplier": 2,
     
     "OfflineProfitMaxMinutes": 1,
