@@ -195,7 +195,7 @@
     
     "LabVideoMinutesOff": 30,
     "maxBedLabLevel": 10,
-    "labMultLevelStep": 1,
+    "labMultLevelStep": 0.5,
 
     "labPriceMult": 10,
     "labResearchDurations": [
