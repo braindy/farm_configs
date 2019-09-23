@@ -434,5 +434,34 @@
             "3.68E+27",
             "3.84E+28",
         ]
+    ],
+    "treeTypes": [
+        [
+            "Bush",
+            "Tree",
+            "Bush",
+            "Tree",
+            "Palm",
+            "Bush",
+            "Tree",
+            "Bush",
+            "Tree",
+            "Tree",
+            "Tree",
+            "Palm"
+        ], [
+            "Bush",
+            "Tree",
+            "Bush",
+            "Tree",
+            "Palm",
+            "Bush",
+            "Tree",
+            "Bush",
+            "Tree",
+            "Tree",
+            "Tree",
+            "Palm"
+        ]
     ]
 }
