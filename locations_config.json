@@ -450,18 +450,18 @@
             "Tree",
             "Palm"
         ], [
-            "Bush",
-            "Tree",
-            "Bush",
-            "Tree",
-            "Palm",
-            "Bush",
-            "Tree",
-            "Bush",
-            "Tree",
-            "Tree",
-            "Tree",
-            "Palm"
+            "FlowerStem2",
+            "FlowerStem2",
+            "FlowerStem1",
+            "FlowerStem1",
+            "FlowerStem1",
+            "FlowerStem1",
+            "FlowerStem2",
+            "FlowerBush1",
+            "FlowerBush2",
+            "FlowerBush2",
+            "FlowerBush1",
+            "FlowerBush1"
         ]
     ]
 }
