@@ -212,6 +212,6 @@
         1445
     ],
     "instantlyProfitMinutesSummation": 2,
-    "instantlyProfitMinutesCooldown": 2
+    "instantlyProfitMinutesCooldown": 2.5,
 
 }
