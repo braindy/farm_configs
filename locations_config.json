@@ -450,17 +450,17 @@
             "Palm"
         ], [
             "FlowerStem2",
-            "FlowerStem2",
-            "FlowerStem1",
-            "FlowerStem1",
-            "FlowerStem1",
-            "FlowerStem1",
-            "FlowerStem2",
             "FlowerBush1",
+            "FlowerStem2",
             "FlowerBush2",
+            "FlowerStem1",
             "FlowerBush2",
+            "FlowerStem1",
             "FlowerBush1",
-            "FlowerBush1"
+            "FlowerStem1",
+            "FlowerBush1",
+            "FlowerStem1",
+            "FlowerStem2"
         ]
     ]
 }
