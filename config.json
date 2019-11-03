@@ -186,7 +186,7 @@
     "ExtraGrowEffectMultiplier": 2,
     "NitroEffectMultiplier": 5,
     
-    "OfflineProfitMaxMinutes": 1.5,
+    "OfflineProfitMaxMinutes": 1.2,
     
     "expToNextLevelStartValue": 1000,
     "expToNextLevelMult": 2,
