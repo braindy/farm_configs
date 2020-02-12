@@ -34,33 +34,32 @@
         230,
         240,
         250,
+        260,
         270,
+        280,
         290,
+        300,
         310,
+        320,
         330,
+        340,
+        350,
+        360,
         370,
+        380,
         390,
+        400,
         410,
+        420,
         430,
+        440,
         450,
+        460,
         470,
-        500,
-        530,
-        560,
-        590,
-        620,
-        650,
-        680,
-        710,
-        740,
-        770,
-        800,
-        850,
-        900,
-        950,
-        1000
+        480,
+        490,
+        500
     ],
-
     "waterTankCapacities": [
         0,
         1000,
@@ -94,25 +93,25 @@
         3800,
         3900,
         4000,
+        4100,
         4200,
+        4300,
         4400,
+        4500,
         4600,
+        4700,
         4800,
+        4900,
         5000,
+        5100,
         5200,
+        5300,
         5400,
+        5500,
         5600,
+        5700,
         5800,
-        6000,
-        6200,
-        6400,
-        6600,
-        6800,
-        7000,
-        7200,
-        7400,
-        7700,
-        8000
+        5900
     ],
 
     "truckSpeed": [
@@ -178,13 +177,13 @@
     
     "bedMaxLevel": 20,
     
-    "rainBonusVideoDuration": 300,
-    "extraGrowBonusVideoDuration": 300,
-    "nitroBonusVideoDuration": 300,
+    "rainBonusVideoDuration": 600,
+    "extraGrowBonusVideoDuration": 600,
+    "nitroBonusVideoDuration": 600,
 
     "RainEffectMultiplier": 2,
     "ExtraGrowEffectMultiplier": 2,
-    "NitroEffectMultiplier": 5,
+    "NitroEffectMultiplier": 2,
     
     "OfflineProfitMaxMinutes": 1,
     
@@ -195,7 +194,7 @@
     
     "LabVideoMinutesOff": 30,
     "maxBedLabLevel": 10,
-    "labMultLevelStep": 0.5,
+    "labMultLevelStep": 1,
 
     "labPriceMult": 10,
     "labResearchDurations": [
@@ -211,7 +210,6 @@
         1205,
         1445
     ],
-    "instantlyProfitMinutesSummation": 1.5,
-    "instantlyProfitMinutesCooldown": 0.5,
-
+    "instantlyProfitMinutesSummation": 2.0,
+    "instantlyProfitMinutesCooldown": 2.0
 }
