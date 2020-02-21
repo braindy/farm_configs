@@ -177,9 +177,9 @@
     
     "bedMaxLevel": 20,
     
-    "rainBonusVideoDuration": 600,
-    "extraGrowBonusVideoDuration": 600,
-    "nitroBonusVideoDuration": 600,
+    "rainBonusVideoDuration": 300,
+    "extraGrowBonusVideoDuration": 300,
+    "nitroBonusVideoDuration": 300,
 
     "RainEffectMultiplier": 2,
     "ExtraGrowEffectMultiplier": 2,
