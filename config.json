@@ -187,9 +187,9 @@
     
     "OfflineProfitMaxMinutes": 1,
     
-    "expToNextLevelStartValue": 1000,
+    "expToNextLevelStartValue": 900,
     "expToNextLevelMult": 2,
-    "levelUpRewardStartValue": 100,
+    "levelUpRewardStartValue": 400,
     "levelUpRewardMult": 2,
     
     "LabVideoMinutesOff": 30,
